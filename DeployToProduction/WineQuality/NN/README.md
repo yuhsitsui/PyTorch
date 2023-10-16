@@ -1,1 +1,1 @@
-# Deployed PyTorch Model for Wime Quality
+# Deployed PyTorch Model for Wine Quality
